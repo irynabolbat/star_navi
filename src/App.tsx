@@ -26,8 +26,6 @@ function App() {
         <Button variant="primary" onClick={handleStart}>START</Button> 
       </div>
 
-      
-
       <div className='game_container'>
         {isGameStarted && <GameDesk />}
         {isLoading && <p>Loading...</p>}
