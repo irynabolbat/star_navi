@@ -1,0 +1,13 @@
+.info_list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.info_item {
+  background-color: bisque;
+  color: brown;
+  padding: 10px;
+  margin-bottom: 3%;
+  border-radius: 5px;
+  width: 100%;
+}
