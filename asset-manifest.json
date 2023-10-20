@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/star_navi/static/css/main.57ec9b70.css",
+    "main.js": "/star_navi/static/js/main.df060f45.js",
+    "static/js/787.8cb35d8f.chunk.js": "/star_navi/static/js/787.8cb35d8f.chunk.js",
+    "index.html": "/star_navi/index.html",
+    "main.57ec9b70.css.map": "/star_navi/static/css/main.57ec9b70.css.map",
+    "main.df060f45.js.map": "/star_navi/static/js/main.df060f45.js.map",
+    "787.8cb35d8f.chunk.js.map": "/star_navi/static/js/787.8cb35d8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57ec9b70.css",
+    "static/js/main.df060f45.js"
+  ]
+}
